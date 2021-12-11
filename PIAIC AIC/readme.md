@@ -1,1 +1,0 @@
-# This is Readme File of Piaic Aritficial Intelligence Cource
